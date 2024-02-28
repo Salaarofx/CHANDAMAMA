@@ -16,9 +16,9 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","whisky_xD")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NexikoBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Alexa_musicvk_bot)
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Nexiko")
+BOT_NAME = getenv("BOT_NAME" , "Alexa_music")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "MissYumikoo")
 # ---------------------------------------------------------
@@ -35,7 +35,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1001919135283))
+LOGGER_ID = int(getenv("LOGGER_ID", -1001807504912))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 OWNER_ID = int(getenv("OWNER_ID", 6847953042))
@@ -141,13 +141,13 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/cfbdee8103102bcb2e5da.jpg"
+    "START_IMG_URL", "https://graph.org/file/da8dc7aa3f1c17bded780.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/00360393a15daf7fc4e9d.jpg"
+    "PING_IMG_URL", "https://graph.org/file/da8dc7aa3f1c17bded780.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/da8dc7aa3f1c17bded780.jpg"
+STATS_IMG_URL = "https://graph.org/file/da8dc7aa3f1c17bded780.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/48f39202823b358203234.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e575ae40d6635250974e1.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
